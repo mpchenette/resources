@@ -21,19 +21,17 @@ This repo is intended to be a collection of links and information that has been 
 
 ## GHAS
 ### Best Practices
-![image.png](/actions-best-practices.png)
-
-
 
 ## Actions
 ### Best Practices
+![image.png](/actions-best-practices.png)
 
 ## Issues + Projects
 
 
 ## Misc / General Links
 - [GitHub Resources](https://resources.github.com/)
-- [GitHub Blog]()
-- [GitHub Changelog]()
-- [GitHub Docs]()
-- [VS Code Docs]()
+- [GitHub Blog](https://github.blog/)
+- [GitHub Changelog](https://github.blog/changelog/)
+- [GitHub Docs](https://docs.github.com/)
+- [VS Code Docs](https://code.visualstudio.com/docs)
